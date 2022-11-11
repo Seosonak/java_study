@@ -17,8 +17,30 @@ public class Start {
 		String j4 = "쓰레기 수집기(Garbage Collector)를 실행시켜 사용하지 않는 객체를 자동 제거";
 		System.out.println("자바의 특징4(메모리 자동관리) : " + j4);
 		
-		String j5 = "";
+		String j5 = "바보";
 		System.out.println("자바의 특징5() : " + j5);
+		
+		
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 
