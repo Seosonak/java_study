@@ -13,7 +13,7 @@ public class CarEX {
 				System.out.println(myCar.speed);
 				System.out.println("====================");
 				
-				//ㅅㄷㄴㅅ
+				
 				Car car2 = new Car("자가용");
 				System.out.println(car2.model);
 				System.out.println(car2.color);
