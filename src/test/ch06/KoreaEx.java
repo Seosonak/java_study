@@ -11,6 +11,9 @@ public class KoreaEx {
 	 System.out.println(k1.name);
 	 System.out.println(k1.nation);
 	 System.out.println(k1.ssn);
+	 
+	 
+	 
 	}
 
 }
