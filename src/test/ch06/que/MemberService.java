@@ -2,19 +2,27 @@ package test.ch06.que;
 
 public class MemberService {
 	
-	String id;
-	String password;	
+	public String id;
+	String password;
+	boolean login(String id, String password) {
+		if (id == "반냠헤" && password == "12345") {
+			this.id = id;
+		 return true;
+		} else {
+			return false;
+		}			
+		
+	};
 	
-/*
-	MemberService memberService = new MemberService();
-	
-	boolean result = memberService.login("hong", "12345");
-	
-	if(result) { 
-		System.out.println("로그인 되었습니다.");
-		 memberService.logout("hong");
-	} esle {
-		System.out.println("id 또는 password가 올바르지 않습니다.");
+	void logout(String id) {
+		if (id == "반냠헤") {	
+			this.id = id;
+			System.out.println(this.id + "님이 로그아웃하셨습니다.\n");
+			return;
+		}
 	}
-	*/
+	
+
+	
+	
 }

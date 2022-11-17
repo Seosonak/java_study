@@ -13,6 +13,7 @@ public class Marine {
 	static void weaponUp() {
 		weapon++;
 		
+		
 	}
 	static void armorUp() {
 		armor++;
