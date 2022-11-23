@@ -23,6 +23,8 @@ public class Customer {
 		// 메소드
 
 		// 고객 등급 초기화
+		
+		
 		// private : 해당패키지안에서만쓸수잇게
 		private void initCustomer() {
 			this.customerGrade = "SILVER"; // 기본실버등급

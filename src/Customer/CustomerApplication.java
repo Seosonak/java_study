@@ -44,7 +44,7 @@ public class CustomerApplication {
 			if (customer == null) { //null일경우의 출력
 				System.out.println("존재하지 않는 회원입니다.");
 			} else { //고객의 실제 지불금액,보너스 포인트
-				showPriceBonus(customer, 300000);
+				showPriceBonus(customer, 10000);
 			}
 			
 			
