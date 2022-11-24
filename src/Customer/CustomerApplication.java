@@ -22,6 +22,8 @@ public class CustomerApplication {
 			//VIP고객
 			Customer customerKim = new VIPCustomer(10050, "이율곡", 12345);
 			
+			
+			
 			customerList.add(customerLee);
 			customerList.add(customerShin);
 			customerList.add(customerHong);

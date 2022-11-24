@@ -1,4 +1,4 @@
-package T;
+package C;
 
 public class GoldCustomer {
 
