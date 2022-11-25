@@ -8,7 +8,7 @@ public class BankApplication {
 	private static Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		boolean run = ture;
+		boolean run = true;
 
 		while (run) {
 			System.out.println("--------------------------------");
