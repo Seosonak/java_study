@@ -20,6 +20,9 @@ public class Start {
 		String j5 = "바보아니다";
 		System.out.println("자바의 특징5() : " + j5);
 		
+		String j6 = "바보아니다";
+		System.out.println("자바의 특징5() : " + j6);
+		
 		
 		
 		
