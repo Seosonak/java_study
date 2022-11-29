@@ -1,53 +1,37 @@
 package Musical;
 
-public class Wed implements Base {
+public class Wed extends Etc implements TheDevil {
 
 	@Override
-	public void mainActor1() {
-		System.out.println("주연1");
-
-	}
-
-	@Override
-	public void mainActor2() {
-		System.out.println("주연2");
-
-	}
-
-	@Override
-	public void subActor1() {
-		System.out.println("조연1");
+	public void xWhite() {
+		System.out.println("한지상");
 		
 	}
 
 	@Override
-	public void subActor2() {
-		System.out.println("조연2");
-
+	public void xBlack() {
+		System.out.println("차지연");
+		
 	}
 
 	@Override
-	public void subActor3() {
-		System.out.println("조연3");
-
+	public void Jhon() {
+		System.out.println("정욱진");
+		
 	}
 
 	@Override
-	public int amTicket() {
-		// TODO Auto-generated method stub
-		return 0;
+	public void Gretel() {
+		System.out.println("이하나");
+		
 	}
 
 	@Override
-	public int pmTicket() {
-		// TODO Auto-generated method stub
-		return 0;
+	public void Guardian() {
+		System.out.println("조민호");
+		
 	}
 
-	@Override
-	public double ticketDiscount() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	
 
 }
