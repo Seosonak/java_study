@@ -5,6 +5,7 @@ import java.util.*;
 public class linkedList {
 	public static void main(String[] args) {
 		ArrayList<String> list1 = new ArrayList<String>();
+		
 		LinkedList<String> list2 = new LinkedList<>();
 
 		// 시작 시간과 끝 시간을 저장할 변수 선언.
