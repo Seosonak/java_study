@@ -12,7 +12,9 @@ public class Printer {
 	// 1. 생성자를private로! 외부에서 객체를 생성 못함!
 	private Printer() {}
 	
+	
 	//메소드
+	
 	//            ▼리턴타입은 프린터
 	public static Printer getPrinter() {
 		//프린터 객체가 null이면 printer객체 생성
